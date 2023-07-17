@@ -295,25 +295,39 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 26.9.0 | 1.9.3 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/TikTok26.9.0_DLTikTok1.9.3.ipa) |
+|  30.2.0 | 2.5 | [Link](https://mega.nz/file/sCEhhCgT#jLgTd6QMjwbkpDjgNAj71flH1MPdUNicfgSatAcxRC8) |
 
 **Note: TikTok v27+ doesn't work properly.**
 
 <details>
   <summary>Show features.</summary>
 
-- Change countries.
-- Auto skip videos.
-- Hide interface.
-- Hide warnings.
-- Enable sound on copyrighted videos.
-- Open subscriptions on startup.
-- Remove ads.
-- Open links in Safari.
-- Password protection.
-- Show disabled comments.
-- User page: show video creation date, total number of videos and profile picture saving.
-- Other useful features.
+Add features to the TikTok App
+
+|| Save video without watermark
+|| Share or save the video
+|| Hide the user interface
+|| Play the next video automatically
+|| Skip watching live while watching automatically
+|| Show progress bar for video
+|| Enable high-quality video upload
+|| Save a profile picture
+|| Show the number of videos
+|| Create favorite groups
+|| Increase the number of letters in the comment to 240
+|| Show the country code for the video
+|| Enable copying for description and account
+|| Enable comments transparency
+|| hide you just saw
+|| Read closed comments
+|| Watching videos under review
+|| Show creation video date
+|| Hide ADS
+|| Change country
+|| Confirm | cancel the like
+|| Confirm | cancel the like in the comments
+|| Confirm | cancel the follow
+|| Lock the app 🔐
 
 </details>
 
