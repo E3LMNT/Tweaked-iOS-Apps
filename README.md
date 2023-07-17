@@ -303,7 +303,7 @@ _with Stalky & OnlineNotify_
   <summary>Show features.</summary>
 
 Add features to the TikTok App
-
+<details>
 -Save video without watermark
 -Share or save the video
 -Hide the user interface
