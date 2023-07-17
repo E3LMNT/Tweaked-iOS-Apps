@@ -304,30 +304,30 @@ _with Stalky & OnlineNotify_
 
 Add features to the TikTok App
 
-|| Save video without watermark
-|| Share or save the video
-|| Hide the user interface
-|| Play the next video automatically
-|| Skip watching live while watching automatically
-|| Show progress bar for video
-|| Enable high-quality video upload
-|| Save a profile picture
-|| Show the number of videos
-|| Create favorite groups
-|| Increase the number of letters in the comment to 240
-|| Show the country code for the video
-|| Enable copying for description and account
-|| Enable comments transparency
-|| hide you just saw
-|| Read closed comments
-|| Watching videos under review
-|| Show creation video date
-|| Hide ADS
-|| Change country
-|| Confirm | cancel the like
-|| Confirm | cancel the like in the comments
-|| Confirm | cancel the follow
-|| Lock the app 🔐
+-Save video without watermark
+-Share or save the video
+-Hide the user interface
+-Play the next video automatically
+-Skip watching live while watching automatically
+-Show progress bar for video
+-Enable high-quality video upload
+-Save a profile picture
+-Show the number of videos
+-Create favorite groups
+-Increase the number of letters in the comment to 240
+-Show the country code for the video
+-Enable copying for description and account
+-Enable comments transparency
+-hide you just saw
+-Read closed comments
+-Watching videos under review
+-Show creation video date
+-Hide ADS
+-Change country
+- Confirm | cancel the like
+- Confirm | cancel the like in the comments
+- Confirm | cancel the follow
+- Lock the app 🔐
 
 </details>
 
